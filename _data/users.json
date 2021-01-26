@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5e2181af5b6c4989c888879f",
+    "firstName": "Niklas",
+    "lastName": "Blanchard",
+    "email": "cheapseatsecon@gmail.com",
+    "password": "t3mpP@ss1",
+    "role": "admin"
+  },
+  {
+    "_id": "5e2181af5b6c4989c88887a0",
+    "firstName": "Bober",
+    "lastName": "Sharoni",
+    "email": "bobersharoni@gmail.com",
+    "password": "123456789",
+    "role": "guest"
+  }
+]
